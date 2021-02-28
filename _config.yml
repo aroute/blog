@@ -6,7 +6,7 @@
 name: Arif
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Kubernetes & OpenShift
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/8330622?s=96&v=4
@@ -20,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: https://github.com/aroute
   instagram:
   linkedin:
   pinterest:
